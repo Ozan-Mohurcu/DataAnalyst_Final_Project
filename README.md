@@ -1,40 +1,43 @@
-📊 Eindproject Data-analist
-Deze repository bevat 3 verschillende data-analyseprojecten die zijn uitgevoerd met behulp van datareiniging, datamanipulatie en visualisatietechnieken. Elk project levert belangrijke inzichten op door diepgaande analyses uit te voeren op verschillende datasets.
+📊 Data Analyst Final Project
+This repo includes 3 different data analysis projects using data cleaning, data manipulation, and visualization techniques. Each project provides important insights by performing in-depth analysis on different data sets.
 
-📁 Inhoud
-🔹 Gegevens opschonen en manipuleren
+📁 Content
+🔹 Data Cleaning & Manipulation
 
-Analyse en invullen van ontbrekende gegevens
-Gegevenstypeconversies en normalisatie
-Een nieuwe variabele afleiden
-🔹 Visualisatie & Analyse
+Analysis and filling of missing data
+Data type conversions and normalization
+New variable generation
+🔹 Visualization & Analysis
 
-Gegevensvisualisatie met verschillende grafiektypen
-Statistische analyse en inzicht extractie
-📂 Projecten
-📌 1. Analyse van beroertevoorspelling
-Dataset: Stroke-dataset
+Data visualization with different chart types
+Statistical analysis and insight extraction
+📂 Projects
+📌 1. Stroke Prediction Analysis
+Dataset: Stroke Dataset
 
-Doelstelling: inzicht krijgen in de risico's van patiënten op een beroerte door hun demografische en gezondheidsgegevens te analyseren.
-Procedures: Verwijderen van ontbrekende gegevens, transformatie van categorische variabelen, leeftijd en gezondheidsstatusassociaties.
-Visualisatie: Relaties tussen beroertepercentages, roken en gezondheidsproblemen per leeftijdsgroep.
-📌 2. Analyse van de laptopmarkt
-Dataset: Laptop-dataset
+Goal: Understand the risk of stroke by analyzing patients' demographic and health data.
+Processes: Cleaning missing data, transforming categorical variables, age and health status relationships.
+Visualization: Relationships between stroke rates, smoking, and health conditions by age groups.
+📌 2. Laptop Market Analysis
+Dataset: Laptop Dataset
 
-Doel: Prijsstrategieën en klantvoorkeuren op de markt voor notebooks analyseren.
-Activiteiten: Prijs-prestatieanalyse per merk, waarbij de impact van technische kenmerken op de prijs wordt onderzocht.
-Visualisatie: Prijsverdeling, prestatieanalyse per processortype, marktbeoordeling per merk.
-📌 3. Fietsdelen en klantgedrag
-Dataset: Dataset fietsdelen
+Goal: Analyze pricing strategies and customer preferences in the laptop market.
 
-Doel: Gebruikersgedrag begrijpen en de dichtheid schatten door het gebruik van deelfietsen te analyseren.
-Werking: Seizoensveranderingen, analyse van uurlijkse en dagelijkse gebruiksgegevens, segmentatie op basis van gebruikerstypen.
-Visualisatie: Dagelijkse en uurlijkse trends in fietsgebruik, weer- en gebruiksrelaties, klantsegmentatie.
-🛠 Gebruikte hulpmiddelen en bibliotheken
+Processes: Price-performance analysis by brand, examining the impact of technical features on price.
+
+Visualization: Price distribution, performance analysis by processor types, brand-based market assessment.
+
+📌 3. Bike Sharing & Customer Behavior
+Dataset: Bike Sharing Dataset
+
+Goal: Understand user behavior and estimate density by analyzing shared bike usage.
+Processes: Seasonal changes, analysis of hourly and daily usage data, segmentation by user types.
+Visualization: Daily and hourly bike usage trends, weather and usage relationships, customer segmentation.
+🛠 Tools and Libraries Used
 ✔️ Python (Pandas, NumPy, Matplotlib, Seaborn)
-✔️ Jupyter-notitieboek
-✔️ Gegevensvoorverwerking en visualisatietechnieken
+✔️ Jupyter Notebook
+✔️ Data Preprocessing and Visualization Techniques
 
-📌 Voor meer informatie over deze projecten kunt u de notitieboeken in elke projectmap raadplegen.
+📌 For more information about these projects, you can review the notebooks in each project folder.
 
-🚀 U kunt contact met ons opnemen om een ​​bijdrage te leveren of feedback te geven!
+🚀 You can contact us to contribute or give feedback!
